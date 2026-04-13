@@ -105,9 +105,9 @@ npm start
 
 ## 🙋‍♂️ Author
 
-👤 <b>Your Name</b>
+👤 <b>Yash Lakra</b>
 💼 Frontend Developer
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 (lakrayash17@gmail.com)
 
 ---
 
