@@ -177,12 +177,6 @@ const styles = `
 
 const INITIAL = { name: "", phone: "", cls: "", subject: "", msg: "" };
 
-const fadeUp = (delay = 0) => ({
-  initial: { opacity: 0, y: 30 },
-  whileInView: { opacity: 1, y: 0 },
-  viewport: { once: true },
-  transition: { duration: 0.7, delay, ease: [0.22, 1, 0.36, 1] },
-});
 
 const slideLeft = (delay = 0) => ({
   initial: { opacity: 0, x: -40 },

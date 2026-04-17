@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { SectionTag } from "./UI.jsx";
+// import { SectionTag } from "./UI.jsx";
 import { BOARDS } from "../data/siteData.js";
 
 const styles = `
